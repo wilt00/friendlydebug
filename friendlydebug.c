@@ -58,6 +58,9 @@ static char * __fdbg_messages[FDBG_NUMMESSAGES] = { \
      "Let's squash this bug",
      "You're on fire",
      "If at first you don't succeed ... ",
+     "Let us try one more time, just to make sure.",
+     "In the middle of every difficulty lies opportunity. - Albert Einstein",
+     "The best revenge is massive success. - Frank Sinatra",
      "... try, try again"};
 //   |----------------------------------------| 40 chars, max length
 
