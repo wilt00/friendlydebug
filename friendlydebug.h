@@ -28,7 +28,7 @@
 #include <stdio.h>
 
 #ifndef FDBG_MACROS
-#define FDBG_NUMMESSAGES 23
+#define FDBG_NUMMESSAGES 24
 
 /* Function: fdbg_info()
  * Print the line number, function name, and file name of the location from

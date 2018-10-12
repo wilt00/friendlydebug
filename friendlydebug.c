@@ -58,7 +58,8 @@ static char * __fdbg_messages[FDBG_NUMMESSAGES] = { \
      "Let's squash this bug",
      "You're on fire",
      "If at first you don't succeed ... ",
-     "... try, try again"};
+     "... try, try again",
+     "DO IT! JUST DO IT!"};
 //   |----------------------------------------| 40 chars, max length
 
 #endif
