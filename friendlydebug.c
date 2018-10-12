@@ -58,7 +58,39 @@ static char * __fdbg_messages[FDBG_NUMMESSAGES] = { \
      "Let's squash this bug",
      "You're on fire",
      "If at first you don't succeed ... ",
-     "... try, try again"};
+     "... try, try again",
+     "B-live in self & rest will fall in2 place",
+     "Never stop fighting",
+     "There is nothing you cannot accomplish",
+     "Nothing worth having comes easy, go on",
+     "You can make it happen. Yes, you.",
+     "Don't be afraid of failing. Try again",
+     "Never Give Up!",
+     "You're just there...",
+     "Just Do It!",
+     "You're tougher than this!",
+     "Go beyond yourself",
+     "Push yourself harder",
+     "Fell down 7 times, get up 8.",
+     "There is no success like failure",
+     "Dreams don't work unless you do",
+     "Great things never came frm comfort zone",
+     "Sometimes you win, sometimes you learn",
+
+
+
+    //  Some creative funny debugging comments
+     "Temporary my ass",
+     "drunk, fix later",
+     "Magic. Do not touch.",
+     "Happy debugging suckers",
+     "I'm sorry!",
+     "Too scared to delete this!",
+     "I don't know how but it just works!",
+     "Dear future me, please forgive me",
+     "Please work!",
+     "You are not meant to understand this"
+     };
 //   |----------------------------------------| 40 chars, max length
 
 #endif
