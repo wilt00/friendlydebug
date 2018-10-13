@@ -72,3 +72,8 @@ extern void fdbg_setname(char * name);
 
 /* Documentation of __LINE__ etc: */
 /* https://www.lemoda.net/c/line-file-func/ */
+
+/* Function: fdbg_message_size()
+ * Returns the memory size of message array
+ */
+extern int fdbg_message_size();
