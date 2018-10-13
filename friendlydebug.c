@@ -35,7 +35,7 @@
 #define FDBG_DEFAULT_NAME "Coder"
 static char __fdbg_name[FDBG_MAX_NAME_LENGTH] = FDBG_DEFAULT_NAME;
 
-static char * __fdbg_messages[FDBG_NUMMESSAGES] = { \
+static char * __fdbg_messages[] = { \
     "Keep it up",
      "You've got this",
      "I believe in you",
