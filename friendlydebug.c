@@ -36,7 +36,7 @@
 static char __fdbg_name[FDBG_MAX_NAME_LENGTH] = FDBG_DEFAULT_NAME;
 
 static char * __fdbg_messages[] = { \
-    "Keep it up",
+     "Keep it up",
      "You've got this",
      "I believe in you",
      "Don't stop now",
@@ -59,7 +59,11 @@ static char * __fdbg_messages[] = { \
      "You're on fire",
      "If at first you don't succeed ... ",
      "... try, try again",
-     "DO IT! JUST DO IT!"};
+     "DO IT! JUST DO IT!",
+     "You can win if you want ...",
+     "... If you want it, you will win",
+     "With patience, you shall find victory",
+     "Code with honor, debug with glory!"};
 //   |----------------------------------------| 40 chars, max length
 
 #endif
