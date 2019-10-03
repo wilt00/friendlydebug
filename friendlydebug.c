@@ -59,7 +59,18 @@ static char * __fdbg_messages[] = { \
      "You're on fire",
      "If at first you don't succeed ... ",
      "... try, try again",
-     "DO IT! JUST DO IT!"};
+     "DO IT! JUST DO IT! ... ",
+     "... MAKE YOUR DREAMS COME TRUE!",
+     "You can only go forward by ... ",
+     "... making mistakes",
+     "Making mistakes is how we learn",
+     "Everything you need to accomplish ... ",
+     "... your goals is already in you",
+     "I'm so proud of you",
+     "There's something in you that ... ",
+     "... the world needs",
+     "A little progress everyday adds up ... ",
+     "...  to big results"};
 //   |----------------------------------------| 40 chars, max length
 
 #endif
