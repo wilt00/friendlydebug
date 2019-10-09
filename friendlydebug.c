@@ -1,4 +1,4 @@
-/**
+/*
  * FriendlyDebug
  * Version 1.0.0
  * 2017-11-07
@@ -36,7 +36,7 @@
 static char __fdbg_name[FDBG_MAX_NAME_LENGTH] = FDBG_DEFAULT_NAME;
 
 static char * __fdbg_messages[] = { \
-    "Keep it up",
+     "Keep it up",
      "You've got this",
      "I believe in you",
      "Don't stop now",
@@ -86,5 +86,5 @@ extern void fdbg_setname(char * name) {
 }
 
 extern int fdbg_message_size() {
-  return (int)sizeof(__fdbg_messages);
+    return (int)sizeof(__fdbg_messages);
 }
